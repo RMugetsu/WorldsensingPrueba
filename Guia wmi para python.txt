@@ -1,0 +1,13 @@
+Instalacion
+
+1- Instalar python
+2- Instalar modulo wmi : pip install wmi desde la terminal(cmd, no hay que iniciar python)
+3- Instalar modulo pypiwin32: pip install pypiwin32
+4- Instalar OpenHardwareMonitor
+
+Uso
+
+1- Iniciar OpenHardwareMonitor
+2- Ejecutar en terminal:
+	- python "nombreArchivoServidor".py
+	- python "nombreArchivoCliente".py
